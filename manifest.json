@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Learn with Austin Griffith",
+    "name": "Buidl Buddy",
     "description": "A chrome extension, assisting you in learning Web3 and Blockchain technologies.",
     "version": "1.0",
     "permissions": ["activeTab", "storage"],
