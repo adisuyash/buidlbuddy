@@ -6,7 +6,7 @@ The **Buidl Buddy** extension acts like Austin Griffith - the Founder of Buidl G
 
 ## Demo Video
 
-[![Buidl Buddy YouTube Thumbnail](https://github.com/user-attachments/assets/5ba6960f-f509-4449-b5c9-989207e8468c)](https://www.youtube.com/watch?v=aLu3m-QWNg0)
+[![Buidl Buddy YouTube Thumbnail](https://github.com/adisuyash/buidlbuddy/blob/main/icons/yt-thumbnail.png)](https://www.youtube.com/watch?v=aLu3m-QWNg0)
 
 ## Installation and Usage
 
