@@ -1,0 +1,93 @@
+body,
+h1,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: monospace;
+  background-color: #fff;
+  width: 400px;
+  /* Set a fixed width for the body */
+  overflow: hidden;
+  /* Prevents overflow of the entire popup */
+}
+
+.mainhead {
+  text-align: center;
+  width: 100%;
+  /* Set to 100% to fill the body */
+  overflow: hidden;
+  /* Prevents overflow */
+}
+
+.headImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.chat-container {
+  padding: 0 15px 15px 15px;
+}
+
+h1 {
+  font-size: 2.3em;
+  color: #000;
+}
+
+h3 {
+  margin-bottom: 10px;
+  color: #000;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.para {
+  font-size: 1.3em;
+  color: #000;
+}
+
+.chat-box {
+  height: 150px;
+  overflow-y: auto;
+  border: 1px solid #666;
+  font-size: 1.14em;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"] {
+  width: 100%;
+  /* Full width input */
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1em;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-family: monospace;
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: #7f8cff;
+}
+
+button:hover {
+  cursor: pointer;
+  transition: 0.1s;
+}
