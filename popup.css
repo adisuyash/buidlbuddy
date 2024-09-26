@@ -95,6 +95,13 @@ button:hover {
   transition: 0.1s;
 }
 
+h4{
+  font-size: 12px;
+  color: #000;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
 .adisuyash {
   text-decoration: none;
   color: #707efc;
@@ -102,5 +109,4 @@ button:hover {
 
 .footer {
   color: red;
-  font-size: 13px;
 }
