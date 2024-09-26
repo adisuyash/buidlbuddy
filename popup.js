@@ -32,7 +32,7 @@ async function sendMessage() {
     });
 
     const data = await response.json();
-    chatBox.innerHTML += `<p style="text-align:left;"><img src="/icons/castle.png" alt="castleImage" style="height: 14px;" /> ${data.choices[0].message.content}</p>`;
+    chatBox.innerHTML += `<p style="text-align:left;"><img src="/icons/main.png" alt="mainImage" style="height: 14px;" /> ${data.choices[0].message.content}</p>`;
   } catch (error) {
     chatBox.innerHTML += '<p><strong>Error:</strong> Unable to fetch the response.</p>';
   }
