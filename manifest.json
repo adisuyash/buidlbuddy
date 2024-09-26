@@ -11,7 +11,7 @@
     },
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "icons/buidl.png"
+      "default_icon": "icons/main.png"
     },
     "host_permissions": [
       "https://llama.us.gaianet.network/*"
