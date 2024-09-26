@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Buidl Buddy",
-    "description": "A chrome extension, assisting you in learning Web3 and Blockchain technologies.",
+    "description": "An extension, assisting you in learning Web3 and Blockchain technologies.",
     "version": "1.0",
     "permissions": ["activeTab", "storage"],
     "icons": {
