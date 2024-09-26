@@ -1,20 +1,22 @@
 # Buidl Buddy
 
-The **Buidl Buddy** extension acts like Austin Griffith - the Founder of Buidl Guidl (a curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the Web3 ecosystem). 
+The **Buidl Buddy** extension acts like Austin Griffith - the Founder of Buidl Guidl, and provides insights on Web3 and Ethereum.
 
 **Built using the Gaianet's Llama API:** https://llama.us.gaianet.network/v1
 
 ## Demo Video
 
+[![Buidl Buddy YouTube Thumbnail](https://github.com/user-attachments/assets/5ba6960f-f509-4449-b5c9-989207e8468c)](https://www.youtube.com/watch?v=aLu3m-QWNg0)
 
 ## Installation and Usage
 
 Follow these simple steps to get Buidl Buddy up and running:
 
 1. Clone the repository using:
-    ```bash
-    git clone https://github.com/adisuyash/buidlbuddy.git
-    ```
+
+   ```bash
+   git clone https://github.com/adisuyash/buidlbuddy.git
+   ```
 
 2. Open Chrome and navigate to: [`chrome://extensions/`](chrome://extensions/)
 3. Enable `Developer mode` by clicking the toggle switch in the top right corner.
@@ -27,4 +29,3 @@ Follow these simple steps to get Buidl Buddy up and running:
 ## Contribution
 
 Please open an issue or submit a pull request to improve the project.
-
