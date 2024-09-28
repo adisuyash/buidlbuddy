@@ -1,19 +1,19 @@
 {
-    "manifest_version": 3,
-    "name": "Buidl Buddy",
-    "description": "An extension, assisting you in learning Web3 and Blockchain technologies.",
-    "version": "1.0",
-    "permissions": ["activeTab", "storage"],
-    "icons": {
-      "16": "icons/buidl.png",
-      "48": "icons/buidl.png",
-      "128": "icons/buidl.png"
-    },
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": "icons/main.png"
-    },
-    "host_permissions": [
-      "https://llama.us.gaianet.network/*"
-    ]
-  }
+  "manifest_version": 3,
+  "name": "Buidl Buddy",
+  "description": "An extension, assisting you in learning Web3 and Blockchain technologies.",
+  "version": "1.0",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "icons": {
+    "16": "icons/buidl.png",
+    "48": "icons/buidl.png",
+    "128": "icons/buidl.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/main.png"
+  },
+  "host_permissions": [
+    "https://llama.us.gaianet.network/*"
+  ]
+}
