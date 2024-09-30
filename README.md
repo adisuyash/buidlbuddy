@@ -23,8 +23,22 @@ Follow these simple steps to get Buidl Buddy up and running:
 4. Click the `Load unpacked` button.
 5. Locate and select the `buidlbuddy` folder which you've recently cloned.
 
-6. Once the extension is loaded, click on the extension icon in the Chrome toolbar to access the application.
-7. You can also pin the extension in your Chrome for frequent use.
+
+## Usage and Commands
+Once you have the Buidl Buddy extension installed and running, you can interact with it in the following ways:
+
+### 1. Summarize
+   
+   Type `summarize` in the input box to get a concise summary of the current webpage's content.
+
+### 2. About the Page
+
+You can type queries that include `about this page` to ask specific questions related to the content of the webpage you're viewing.
+
+### 3. Web3 and Buidl related queries
+
+For other questions or insights on Web3, DApps, Ethereum, and related technologies, simply input your query and let Buidl Buddy respond using Gaianet's Llama API.
+
 
 ## Contribution
 
